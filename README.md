@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/HomePage.png" alt="Trova Giocatori Cover" width="80%">
+  <img src="/img/HomePage.png" alt="Trova Giocatori Cover" width="80%">
 </p>
 
 # ⚽ Trova Giocatori
